@@ -1,7 +1,7 @@
 {
-    "default_model": "juggernautXL_v8Rundiffusion.safetensors",
-    "default_refiner": "None",
-    "default_refiner_switch": 0.5,
+    "default_model": "sd_xl_base_1.0.safetensors",
+    "default_refiner": "sd_xl_refiner_1.0.safetensors",
+    "default_refiner_switch": 0.8,
     "default_loras": [
         [
             true,
@@ -43,7 +43,6 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {

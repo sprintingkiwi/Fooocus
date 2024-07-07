@@ -349,7 +349,8 @@ For example, an edited `Fooocus\config.txt` (this file will be generated after t
     "default_styles": [
         "Fooocus V2",
         "Fooocus Photograph",
-        "Fooocus Negative"
+        "Fooocus Negative",
+        "SAI Anime
     ]
 }
 ```
